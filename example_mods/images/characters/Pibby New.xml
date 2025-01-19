@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby New.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="I0000" x="868" y="0" width="433" height="584" frameX="-143" frameY="-226" frameWidth="1200" frameHeight="1115"/>
+	<SubTexture name="I0001" x="0" y="582" width="434" height="590" frameX="-141" frameY="-222" frameWidth="1200" frameHeight="1115"/>
+	<SubTexture name="I0002" x="0" y="0" width="446" height="582" frameX="-149" frameY="-211" frameWidth="1200" frameHeight="1115"/>
+	<SubTexture name="I0003" x="1301" y="0" width="422" height="596" frameX="-153" frameY="-197" frameWidth="1200" frameHeight="1115"/>
+	<SubTexture name="I0004" x="446" y="0" width="422" height="602" frameX="-159" frameY="-191" frameWidth="1200" frameHeight="1115"/>
+	<SubTexture name="I0005" x="446" y="0" width="422" height="602" frameX="-159" frameY="-191" frameWidth="1200" frameHeight="1115"/>
+</TextureAtlas>

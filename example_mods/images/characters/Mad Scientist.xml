@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mad Scientist.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="I0000" x="137" y="264" width="137" height="266" frameX="-167" frameY="-4" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0001" x="274" y="264" width="137" height="265" frameX="-167" frameY="-4" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0002" x="315" y="0" width="157" height="263" frameX="-165" frameY="-7" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0003" x="157" y="0" width="158" height="262" frameX="-165" frameY="-8" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0004" x="472" y="0" width="138" height="262" frameX="-166" frameY="-8" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0005" x="0" y="0" width="157" height="264" frameX="-166" frameY="-6" frameWidth="480" frameHeight="270"/>
+	<SubTexture name="I0006" x="0" y="264" width="137" height="285" frameX="-166" frameY="-4" frameWidth="480" frameHeight="270"/>
+</TextureAtlas>

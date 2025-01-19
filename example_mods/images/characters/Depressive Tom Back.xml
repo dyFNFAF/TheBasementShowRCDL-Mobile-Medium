@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Depressive Tom Back.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="D0000" x="406" y="728" width="151" height="250" frameX="-132" frameY="-105" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="D0001" x="837" y="728" width="137" height="236" frameX="-126" frameY="-109" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="D0002" x="557" y="728" width="140" height="239" frameX="-122" frameY="-105" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="D0003" x="697" y="728" width="140" height="238" frameX="-123" frameY="-104" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="I0000" x="1052" y="268" width="133" height="266" frameX="-122" frameY="-76" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="I0001" x="1052" y="0" width="134" height="268" frameX="-123" frameY="-72" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="I0002" x="1052" y="534" width="132" height="262" frameX="-127" frameY="-75" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="I0003" x="1186" y="0" width="131" height="259" frameX="-132" frameY="-76" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="I0004" x="1186" y="259" width="130" height="259" frameX="-132" frameY="-77" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="L0000" x="0" y="728" width="207" height="256" frameX="-62" frameY="-76" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="L0001" x="207" y="728" width="199" height="256" frameX="-65" frameY="-77" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="L0002" x="810" y="242" width="213" height="255" frameX="-68" frameY="-80" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="L0003" x="810" y="242" width="213" height="255" frameX="-68" frameY="-80" frameWidth="409" frameHeight="360"/>
+	<SubTexture name="R0000" x="810" y="0" width="242" height="242" frameX="-96" frameY="-95" frameWidth="409" frameHeight="362"/>
+	<SubTexture name="R0001" x="281" y="0" width="266" height="246" frameX="-92" frameY="-99" frameWidth="409" frameHeight="362"/>
+	<SubTexture name="R0002" x="0" y="505" width="269" height="223" frameX="-91" frameY="-106" frameWidth="409" frameHeight="362"/>
+	<SubTexture name="R0003" x="547" y="248" width="242" height="242" frameX="-98" frameY="-102" frameWidth="409" frameHeight="362"/>
+	<SubTexture name="U0000" x="0" y="252" width="276" height="253" frameX="-78" frameY="-75" frameWidth="411" frameHeight="360"/>
+	<SubTexture name="U0001" x="0" y="0" width="281" height="252" frameX="-72" frameY="-76" frameWidth="411" frameHeight="360"/>
+	<SubTexture name="U0002" x="547" y="0" width="263" height="248" frameX="-80" frameY="-91" frameWidth="411" frameHeight="360"/>
+	<SubTexture name="U0003" x="281" y="246" width="263" height="248" frameX="-77" frameY="-87" frameWidth="411" frameHeight="360"/>
+</TextureAtlas>

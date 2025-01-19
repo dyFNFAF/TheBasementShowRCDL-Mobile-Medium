@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crew Girlfriend.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="I0000" x="0" y="0" width="377" height="368" frameX="-88" frameY="-175" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="I0001" x="377" y="0" width="382" height="360" frameX="-93" frameY="-174" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="I0002" x="759" y="0" width="360" height="357" frameX="-97" frameY="-173" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="I0003" x="348" y="368" width="363" height="359" frameX="-99" frameY="-172" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="I0004" x="0" y="368" width="348" height="378" frameX="-100" frameY="-173" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>
